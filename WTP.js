@@ -120,7 +120,7 @@ app.get('/', (req, res) => {
         </head>
         <body>
             <div class="header">
-                <button onclick="window.location.href='https://www.example.com'">Login</button>
+                <button onclick="https://riasgremorybot-xcqv.onrender.com/'">Login</button>
             </div>
             <div class="container">
                 <h1>WhatsApp Server</h1>
