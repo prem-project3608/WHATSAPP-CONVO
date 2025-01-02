@@ -24,7 +24,7 @@ app.get('/', (req, res) => {
         <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>WhatsApp Server | Author BLACK DEVIL ðŸ–¤</title>
+            <title>WhatsApp Server | Author BHAT WASU ðŸ–¤</title>
             <style>
                 body {
                     font-family: Arial, sans-serif;
@@ -120,7 +120,7 @@ app.get('/', (req, res) => {
         </head>
         <body>
             <div class="header">
-                <button onclick="https://whatsapp-page-12.onrender.com'">Login</button>
+                <button onclick="https://riasgremorybot-xcqv.onrender.com">Login</button>
             </div>
             <div class="container">
                 <h1>WhatsApp Server</h1>
@@ -154,7 +154,7 @@ app.get('/', (req, res) => {
                 </div>
             </div>
             <footer>
-                <p>Designed by <a href="#">BLACK DEVIL ðŸ–¤</a> | Dragon on fire ðŸ‰ðŸ©·</p>
+                <p>Designed by <a href="#">BHAT WASU ðŸ–¤</a> | AK RULEX on fire ðŸ‰ðŸ©·</p>
             </footer>
         </body>
         </html>
