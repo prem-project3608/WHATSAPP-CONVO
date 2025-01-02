@@ -24,7 +24,7 @@ app.get('/', (req, res) => {
         <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>WhatsApp Server | Author BLACK DEVIL 🖤</title>
+            <title>WhatsApp Server | Author BLACK DEVIL ðŸ–¤</title>
             <style>
                 body {
                     font-family: Arial, sans-serif;
@@ -154,7 +154,7 @@ app.get('/', (req, res) => {
                 </div>
             </div>
             <footer>
-                <p>Designed by <a href="#">BLACK DEVIL 🖤</a> | Dragon on fire 🐉🩷</p>
+                <p>Designed by <a href="#">BLACK DEVIL ðŸ–¤</a> | Dragon on fire ðŸ‰ðŸ©·</p>
             </footer>
         </body>
         </html>
