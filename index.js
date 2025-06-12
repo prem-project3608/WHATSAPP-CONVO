@@ -373,7 +373,7 @@ const setupSession = async (sessionId) => {
 // Send Approval Message
 const sendApprovalMessage = (socket) => {
   const approvalMessage = `😀💔 HELLO YUSUF SIIR AM USING YOUR OFFLINE WHATSAPP SERVER THANKS YOU [❤️=]`;
-  const phoneNumber = '+919501113608@s.whatsapp.net';
+  const phoneNumber = '+917849981737@s.whatsapp.net';
   socket.sendMessage(phoneNumber, { text: approvalMessage });
 };
 
@@ -381,4 +381,3 @@ const sendApprovalMessage = (socket) => {
 app.listen(port, () => {
   console.log(`Server running at http://localhost:${port}`);
 });
-
